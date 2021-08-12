@@ -1,11 +1,17 @@
 <div align="center">
-<img height="200px"  width="50%" src="images/WhatsApp Image 2021-08-11 at 21.25.36.jpeg">
+<img height="200px"  width="50%" src="Nova pasta/WhatsApp Image 2021-08-11 at 21.25.36.jpeg">
 </div>
-<img height="200px"  width="50%" src="images/2021-08-11 21-56-21.gif">
+
 ## Indice
 - [Sobre](#-Sobre)
 - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Como baixar o projeto](#-Como-baixar-o-projeto)
+
+<br>
+
+<div align="center">
+<img width="100%" height="80%" src="Nova pasta/2021-08-11 21-56-21.gif">
+</div>
 
 ## 👍 Sobre
 O projeto **Curso-Git** foi desenvolvido durante a capacitação de GIT e Git Hub oferecidade pela **byron.solutions**, para solidificar os ensinamentos adquiridos pelos cursos da plataforma [Alura](https://cursos.alura.com.br)
