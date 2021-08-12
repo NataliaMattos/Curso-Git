@@ -14,7 +14,7 @@
 </div>
 
 ## 👍 Sobre
-O projeto **Curso-Git** foi desenvolvido durante a capacitação de GIT e Git Hub oferecidade pela **byron.solutions**, para solidificar os ensinamentos adquiridos pelos cursos da plataforma [Alura](https://cursos.alura.com.br)
+O projeto **Curso-Git** foi desenvolvido durante a capacitação de GIT e Git Hub oferecida pela **byron.solutions**, para solidificar os ensinamentos adquiridos pelos cursos da plataforma [Alura](https://cursos.alura.com.br)
 
 ## 👍 Tecnologias Utilizadas
 Foi utilizado apenas html básico para criar exemplos simples de projetos para sua versonificação com o git e git hub
